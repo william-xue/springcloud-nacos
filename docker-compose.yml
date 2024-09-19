@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: 233a484acc79
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: xue1992
+      # MYSQL_DATABASE:  # 如果你需要创建一个初始数据库，可以添加这行
+      # MYSQL_USER: your_username           # 如果你需要创建一个额外用户，可以添加这行
+      # MYSQL_PASSWORD: your_user_password  # 配合上面一行使用
+    volumes:
+      - ./data:/var/lib/mysql # 挂载主机目录到容器中的MySQL数据目录
+    restart: always # 保证容器自动重启
+  nacos:
+    image: nacos/nacos-server:1.4.1
+    container_name: nacos
+    ports:
+      - "8848:8848" #http://localhost:8848/nacos/#/login
+    environment:
+      - MODE=standalone
+    volumes:
+      - /Users/xueyuan/Desktop/xue/nacos/logs:/home/nacos/logs
+      - /Users/xueyuan/Desktop/xue/nacos/init.d/custom.properties:/home/nacos/init.d/custom.properties
+    restart: always

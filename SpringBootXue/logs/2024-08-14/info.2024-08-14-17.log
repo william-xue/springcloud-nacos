@@ -1,0 +1,106 @@
+2024-08-14 17:00:23,363 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:00:23,363 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:00:33,655 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-14 17:00:33,655 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-14 17:00:34,198 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-14 17:00:34,198 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-14 17:00:35,094 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-14 17:00:35,094 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-14 17:00:35,399 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-14 17:00:35,399 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-14 17:00:35,409 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:00:35,409 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:00:35,410 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-14 17:00:35,410 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-14 17:00:35,410 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-14 17:00:35,410 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-14 17:00:35,521 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-14 17:00:35,521 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-14 17:00:35,522 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1306 ms
+2024-08-14 17:00:35,522 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1306 ms
+2024-08-14 17:00:36,344 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-14 17:00:36,344 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-14 17:00:36,462 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:00:36,462 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:00:36,676 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:00:36,676 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:00:36,708 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-14 17:00:36,708 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-14 17:00:36,710 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-14 17:00:36,710 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-14 17:00:36,730 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-14 17:00:36,730 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-14 17:00:36,777 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-14 17:00:36,777 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-14 17:00:37,012 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 3.83 seconds (JVM running for 9.834)
+2024-08-14 17:00:37,012 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 3.83 seconds (JVM running for 9.834)
+2024-08-14 17:00:58,707 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-14 17:00:58,707 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-14 17:00:58,707 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-14 17:00:58,707 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-14 17:00:58,719 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-14 17:00:58,719 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-14 17:00:58,999 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-14 17:00:58,999 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-14 17:00:59,495 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-14 17:00:59,495 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-14 17:00:59,568 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:45] - 查询的值 com.huanf.base.model.PageResult@252aaa97
+2024-08-14 17:00:59,568 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:45] - 查询的值 com.huanf.base.model.PageResult@252aaa97
+2024-08-14 17:00:59,585 WARN [http-nio-8888-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter found for return value of type: class com.huanf.base.model.PageResult]
+2024-08-14 17:00:59,585 WARN [http-nio-8888-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter found for return value of type: class com.huanf.base.model.PageResult]
+2024-08-14 17:12:18,317 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:12:18,317 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:12:18,321 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-14 17:12:18,321 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-14 17:12:18,345 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-14 17:12:18,345 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-14 17:12:29,255 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-14 17:12:29,255 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-14 17:12:29,872 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-14 17:12:29,872 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-14 17:12:30,910 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-14 17:12:30,910 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-14 17:12:31,267 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-14 17:12:31,267 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-14 17:12:31,294 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:12:31,294 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:12:31,294 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-14 17:12:31,294 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-14 17:12:31,295 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-14 17:12:31,295 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-14 17:12:31,466 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-14 17:12:31,466 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-14 17:12:31,466 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1576 ms
+2024-08-14 17:12:31,466 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1576 ms
+2024-08-14 17:12:32,544 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-14 17:12:32,544 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-14 17:12:32,679 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:12:32,679 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-14 17:12:32,939 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:12:32,939 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-14 17:12:32,981 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-14 17:12:32,981 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-14 17:12:32,983 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-14 17:12:32,983 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-14 17:12:33,001 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-14 17:12:33,001 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-14 17:12:33,053 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-14 17:12:33,053 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-14 17:12:33,467 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.712 seconds (JVM running for 10.959)
+2024-08-14 17:12:33,467 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.712 seconds (JVM running for 10.959)
+2024-08-14 17:16:14,744 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-14 17:16:14,744 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-14 17:16:14,746 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-14 17:16:14,746 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-14 17:16:14,758 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-14 17:16:14,758 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-14 17:16:15,042 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-14 17:16:15,042 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-14 17:16:20,497 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-14 17:16:20,497 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-14 17:16:20,562 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-14 17:16:20,562 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-14 17:39:18,844 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m28s219ms).
+2024-08-14 17:39:18,844 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m28s219ms).
+2024-08-14 17:55:31,925 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s73ms).
+2024-08-14 17:55:31,925 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s73ms).

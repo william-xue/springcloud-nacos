@@ -1,0 +1,46 @@
+2024-08-15 13:50:24,110 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-15 13:50:24,110 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-15 13:50:25,514 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-15 13:50:25,514 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-15 13:50:27,096 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-15 13:50:27,096 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-15 13:50:28,026 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-15 13:50:28,026 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 8888 (http)
+2024-08-15 13:50:28,066 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-15 13:50:28,066 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-15 13:50:28,067 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-15 13:50:28,067 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-15 13:50:28,067 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-15 13:50:28,067 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-15 13:50:28,301 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-15 13:50:28,301 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-15 13:50:28,301 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2763 ms
+2024-08-15 13:50:28,301 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2763 ms
+2024-08-15 13:50:29,894 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-15 13:50:29,894 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-15 13:50:30,075 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-15 13:50:30,075 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-15 13:50:30,412 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-15 13:50:30,412 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-8888"]
+2024-08-15 13:50:30,456 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-15 13:50:30,456 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 8888 (http) with context path '/content'
+2024-08-15 13:50:30,458 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-15 13:50:30,458 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-15 13:50:30,486 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-15 13:50:30,486 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-15 13:50:30,550 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-15 13:50:30,550 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-15 13:50:30,890 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 7.804 seconds (JVM running for 28.98)
+2024-08-15 13:50:30,890 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 7.804 seconds (JVM running for 28.98)
+2024-08-15 13:52:44,152 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-15 13:52:44,152 INFO [http-nio-8888-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-15 13:52:44,155 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-15 13:52:44,155 INFO [http-nio-8888-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-15 13:52:44,184 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 29 ms
+2024-08-15 13:52:44,184 INFO [http-nio-8888-exec-1][FrameworkServlet.java:547] - Completed initialization in 29 ms
+2024-08-15 13:52:45,081 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-15 13:52:45,081 INFO [http-nio-8888-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-15 13:52:46,223 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-15 13:52:46,223 INFO [http-nio-8888-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-15 13:52:46,578 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-15 13:52:46,578 INFO [http-nio-8888-exec-1][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)

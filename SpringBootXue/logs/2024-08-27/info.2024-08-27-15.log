@@ -1,0 +1,4 @@
+2024-08-27 15:36:38,378 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m29s431ms).
+2024-08-27 15:36:38,378 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m29s431ms).
+2024-08-27 15:45:01,409 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m23s67ms).
+2024-08-27 15:45:01,409 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m23s67ms).

@@ -1,0 +1,56 @@
+2024-08-15 14:13:00,792 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-15 14:13:00,792 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-15 14:13:00,805 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-15 14:13:00,805 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-15 14:13:00,829 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-15 14:13:00,829 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-15 14:13:23,249 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-15 14:13:23,249 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-15 14:13:23,725 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-15 14:13:23,725 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-15 14:13:24,684 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-15 14:13:24,684 INFO [main][GenericScope.java:295] - BeanFactory id=9f0c7042-7422-33d4-b3aa-d10e7728fe51
+2024-08-15 14:13:25,317 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-15 14:13:25,317 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-15 14:13:25,330 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-15 14:13:25,330 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-15 14:13:25,331 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-15 14:13:25,331 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-15 14:13:25,331 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-15 14:13:25,331 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-15 14:13:25,451 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-15 14:13:25,451 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-15 14:13:25,451 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1702 ms
+2024-08-15 14:13:25,451 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1702 ms
+2024-08-15 14:13:26,386 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-15 14:13:26,386 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-15 14:13:26,516 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-15 14:13:26,516 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-15 14:13:26,740 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-15 14:13:26,740 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-15 14:13:26,768 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-15 14:13:26,768 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-15 14:13:26,770 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-15 14:13:26,770 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-15 14:13:26,785 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-15 14:13:26,785 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-15 14:13:26,826 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-15 14:13:26,826 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-15 14:13:27,038 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.369 seconds (JVM running for 12.025)
+2024-08-15 14:13:27,038 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.369 seconds (JVM running for 12.025)
+2024-08-15 14:13:36,780 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-15 14:13:36,780 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-15 14:13:36,781 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-15 14:13:36,781 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-15 14:13:36,791 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-15 14:13:36,791 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-15 14:13:36,814 WARN [http-nio-63040-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2024-08-15 14:13:36,814 WARN [http-nio-63040-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2024-08-15 14:13:46,220 INFO [http-nio-63040-exec-2][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-15 14:13:46,220 INFO [http-nio-63040-exec-2][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-15 14:13:46,481 INFO [http-nio-63040-exec-2][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-15 14:13:46,481 INFO [http-nio-63040-exec-2][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-15 14:13:46,554 INFO [http-nio-63040-exec-2][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-15 14:13:46,554 INFO [http-nio-63040-exec-2][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-15 14:57:58,009 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m41s194ms).
+2024-08-15 14:57:58,009 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m41s194ms).

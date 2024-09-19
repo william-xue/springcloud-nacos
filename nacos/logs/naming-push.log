@@ -1,0 +1,102 @@
+2024-09-06 14:36:21,734 INFO DEFAULT_GROUP@@system-api is changed, add it to push queue.
+
+2024-09-06 14:36:21,807 INFO serviceName: DEFAULT_GROUP@@system-api changed, schedule push for: 127.0.0.1:57805, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:21,979 INFO send udp packet: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:31,988 INFO retry to push data, key: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:31,992 INFO send udp packet: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:41,974 INFO retry to push data, key: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:41,976 WARN max re-push times reached, retry times 2, key: 127.0.0.1,57805,39095147003997
+
+2024-09-06 14:36:44,216 INFO DEFAULT_GROUP@@system-api is changed, add it to push queue.
+
+2024-09-06 14:36:44,221 INFO serviceName: DEFAULT_GROUP@@system-api changed, schedule push for: 127.0.0.1:57805, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:36:44,223 INFO send udp packet: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:36:52,603 INFO springboot-xue-project@@system-api is changed, add it to push queue.
+
+2024-09-06 14:36:52,608 INFO serviceName: springboot-xue-project@@system-api changed, schedule push for: 127.0.0.1:54971, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:36:52,610 INFO send udp packet: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:36:54,226 INFO retry to push data, key: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:36:54,228 INFO send udp packet: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:37:02,590 INFO retry to push data, key: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:37:02,592 INFO send udp packet: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:37:04,209 INFO retry to push data, key: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:37:04,211 WARN max re-push times reached, retry times 2, key: 127.0.0.1,57805,39117599470752
+
+2024-09-06 14:37:12,596 INFO retry to push data, key: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:37:12,599 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54971,39125987395755
+
+2024-09-06 14:50:59,089 INFO springboot-xue-project@@content-api is changed, add it to push queue.
+
+2024-09-06 14:50:59,093 INFO serviceName: springboot-xue-project@@content-api changed, schedule push for: 127.0.0.1:52564, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,52564,39972900963776
+
+2024-09-06 14:50:59,094 INFO send udp packet: 127.0.0.1,52564,39972900963776
+
+2024-09-06 14:51:09,074 INFO retry to push data, key: 127.0.0.1,52564,39972900963776
+
+2024-09-06 14:51:09,077 INFO send udp packet: 127.0.0.1,52564,39972900963776
+
+2024-09-06 14:51:19,079 INFO retry to push data, key: 127.0.0.1,52564,39972900963776
+
+2024-09-06 14:51:19,082 WARN max re-push times reached, retry times 2, key: 127.0.0.1,52564,39972900963776
+
+2024-09-06 15:11:22,151 INFO springboot-xue-project@@content-api is changed, add it to push queue.
+
+2024-09-06 15:11:25,028 INFO springboot-xue-project@@content-api is changed, add it to push queue.
+
+2024-09-06 15:11:25,124 INFO springboot-xue-project@@system-api is changed, add it to push queue.
+
+2024-09-06 15:11:25,126 INFO serviceName: springboot-xue-project@@system-api changed, schedule push for: 127.0.0.1:54971, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:11:25,127 INFO send udp packet: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:11:35,129 INFO retry to push data, key: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:11:35,131 INFO send udp packet: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:11:45,136 INFO retry to push data, key: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:11:45,139 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54971,41121333906015
+
+2024-09-06 15:19:41,682 INFO springboot-xue-project@@system-api is changed, add it to push queue.
+
+2024-09-06 15:19:41,686 INFO serviceName: springboot-xue-project@@system-api changed, schedule push for: 127.0.0.1:54971, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:19:41,690 INFO send udp packet: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:19:41,692 INFO springboot-xue-project@@content-api is changed, add it to push queue.
+
+2024-09-06 15:19:41,694 INFO serviceName: springboot-xue-project@@content-api changed, schedule push for: 127.0.0.1:52564, agent: Nacos-Java-Client:v1.4.2, key: 127.0.0.1,52564,41618248599933
+
+2024-09-06 15:19:41,694 INFO send udp packet: 127.0.0.1,52564,41618248599933
+
+2024-09-06 15:19:51,671 INFO retry to push data, key: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:19:51,675 INFO send udp packet: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:19:51,677 INFO retry to push data, key: 127.0.0.1,52564,41618248599933
+
+2024-09-06 15:19:51,678 INFO send udp packet: 127.0.0.1,52564,41618248599933
+
+2024-09-06 15:20:01,678 INFO retry to push data, key: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:20:01,682 WARN max re-push times reached, retry times 2, key: 127.0.0.1,54971,41618240433168
+
+2024-09-06 15:20:01,683 INFO retry to push data, key: 127.0.0.1,52564,41618248599933
+
+2024-09-06 15:20:01,684 WARN max re-push times reached, retry times 2, key: 127.0.0.1,52564,41618248599933
+

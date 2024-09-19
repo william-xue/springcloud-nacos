@@ -1,0 +1,76 @@
+2024-08-28 17:07:24,112 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5391aa5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,112 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5391aa5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,136 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b4dc967 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,136 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b4dc967 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,150 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4371fcee (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,150 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4371fcee (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,159 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@e503a17 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,159 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@e503a17 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,164 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@100178d5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,164 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@100178d5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,169 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@25329d43 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,169 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@25329d43 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,171 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@69e89387 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,171 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@69e89387 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,181 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66e78c2f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,181 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66e78c2f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,188 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@618b1321 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,188 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@618b1321 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,194 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b576dcb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:24,194 WARN [http-nio-63040-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b576dcb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-28 17:07:29,399 INFO [http-nio-63040-exec-9][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-28 17:07:29,399 INFO [http-nio-63040-exec-9][CourseBaseInfoController.java:46] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=202004, status=203002)], counts=1, page=1, pageSize=10)
+2024-08-28 17:18:06,880 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-28 17:18:06,880 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-28 17:18:06,909 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-28 17:18:06,909 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-28 17:18:06,951 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-28 17:18:06,951 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-28 17:18:26,092 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-28 17:18:26,092 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-28 17:18:26,662 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-28 17:18:26,662 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-28 17:18:27,529 INFO [main][GenericScope.java:295] - BeanFactory id=07678b35-38a4-3654-aebb-7f8771c91fe4
+2024-08-28 17:18:27,529 INFO [main][GenericScope.java:295] - BeanFactory id=07678b35-38a4-3654-aebb-7f8771c91fe4
+2024-08-28 17:18:27,863 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-28 17:18:27,863 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-28 17:18:27,879 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-28 17:18:27,879 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-28 17:18:27,880 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-28 17:18:27,880 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-28 17:18:27,881 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-28 17:18:27,881 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-28 17:18:27,996 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-28 17:18:27,996 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-28 17:18:27,997 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1317 ms
+2024-08-28 17:18:27,997 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1317 ms
+2024-08-28 17:18:29,847 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-28 17:18:29,847 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-28 17:18:30,185 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-28 17:18:30,185 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-28 17:18:30,720 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-28 17:18:30,720 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-28 17:18:30,790 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-28 17:18:30,790 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-28 17:18:30,793 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-28 17:18:30,793 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-28 17:18:30,819 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-28 17:18:30,819 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-28 17:18:30,870 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-28 17:18:30,870 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-28 17:18:31,199 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 5.716 seconds (JVM running for 12.313)
+2024-08-28 17:18:31,199 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 5.716 seconds (JVM running for 12.313)
+2024-08-28 17:18:33,577 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-28 17:18:33,577 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-28 17:18:33,578 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-28 17:18:33,578 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-28 17:18:33,587 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-28 17:18:33,587 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-28 17:18:47,999 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-28 17:18:47,999 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-28 17:18:48,483 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-28 17:18:48,483 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-28 17:18:48,567 INFO [http-nio-63040-exec-1][CourseBaseInfoController.java:49] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=AUDIT_STATUS_YES, status=PUBLISH_YES, charge=FEE_YES)], counts=1, page=1, pageSize=10)
+2024-08-28 17:18:48,567 INFO [http-nio-63040-exec-1][CourseBaseInfoController.java:49] - 查询的值 PageResult(items=[CourseBase(id=18, companyId=1232141425, companyName=null, name=java零基础入门v2.0, users=java小白java小白java小白java小白, tags=aa, mt=1-3, st=1-3-2, grade=200001, teachmode=200002, description=java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0java零基础入门v2.0, pic=/mediafiles/2022/12/18/a61805e1360ab946def5471aaefc0a98.jpg, createDate=Wed Sep 04 09:56:19 CST 2019, changeDate=Sun Dec 18 12:19:10 CST 2022, createPeople=null, changePeople=null, auditStatus=AUDIT_STATUS_YES, status=PUBLISH_YES, charge=FEE_YES)], counts=1, page=1, pageSize=10)
+2024-08-28 17:50:46,503 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m57s903ms).
+2024-08-28 17:50:46,503 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m57s903ms).

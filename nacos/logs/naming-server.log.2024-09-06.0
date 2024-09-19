@@ -1,0 +1,70 @@
+2024-09-06 09:26:26,545 INFO GlobalConfig{taskDispatchPeriod=200, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=true, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2024-09-06 09:26:27,359 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-09-06 09:26:27,369 INFO listen for service meta change
+
+2024-09-06 09:26:31,523 INFO [NACOS-DISTRO] healthy server list changed, old: [172.22.0.3:8848], new: [172.22.0.3:8848]
+
+2024-09-06 10:49:49,180 INFO GlobalConfig{taskDispatchPeriod=200, batchSyncKeyCount=1000, syncRetryDelay=5000, dataWarmup=true, expireInstance=true, loadDataRetryDelayMillis=30000}
+
+2024-09-06 10:49:49,880 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2024-09-06 10:49:49,886 INFO listen for service meta change
+
+2024-09-06 10:49:54,157 INFO [NACOS-DISTRO] healthy server list changed, old: [172.23.0.3:8848], new: [172.23.0.3:8848]
+
+2024-09-06 14:36:20,259 INFO creating empty service public:DEFAULT_GROUP@@system-api
+
+2024-09-06 14:36:20,705 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@system-api","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1725604580265,"checksum":"8a446442148629020f9689dabdda3ce2","clusterMap":{},"empty":true}
+
+2024-09-06 14:36:20,717 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.10.133.65#63110#DEFAULT#DEFAULT_GROUP@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725604580231,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2024-09-06 14:36:20,727 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@system-api, value: {"instanceList":[{"instanceId":"10.10.133.65#63110#DEFAULT#DEFAULT_GROUP@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725604580231,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2024-09-06 14:36:43,213 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@system-api, value: {"instanceList":[]}
+
+2024-09-06 14:36:51,598 INFO creating empty service dev:springboot-xue-project@@system-api
+
+2024-09-06 14:36:51,600 INFO [NEW-SERVICE] {"name":"springboot-xue-project@@system-api","protectThreshold":0.0,"groupName":"springboot-xue-project","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"dev","ipDeleteTimeout":30000,"lastModifiedMillis":1725604611598,"checksum":"3fac62050517d4142aeb8d113e4a4ab1","clusterMap":{},"empty":true}
+
+2024-09-06 14:36:51,601 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.10.133.65#63110#DEFAULT#springboot-xue-project@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725604611597,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2024-09-06 14:36:51,601 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@system-api, value: {"instanceList":[{"instanceId":"10.10.133.65#63110#DEFAULT#springboot-xue-project@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725604611597,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2024-09-06 14:39:02,182 WARN namespace : public, [DEFAULT_GROUP@@system-api] services are automatically cleaned
+
+2024-09-06 14:39:02,221 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@system-api","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1725604603213,"checksum":"b1873fb6673275a0f57d0195fdb08c56","clusterMap":{"DEFAULT":{"serviceName":"DEFAULT_GROUP@@system-api","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"defIPPort":80,"empty":true}},"empty":true}
+
+2024-09-06 14:50:58,085 INFO creating empty service dev:springboot-xue-project@@content-api
+
+2024-09-06 14:50:58,088 INFO [NEW-SERVICE] {"name":"springboot-xue-project@@content-api","protectThreshold":0.0,"groupName":"springboot-xue-project","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"dev","ipDeleteTimeout":30000,"lastModifiedMillis":1725605458085,"checksum":"41014c8b1addaf86626429a918194d2a","clusterMap":{},"empty":true}
+
+2024-09-06 14:50:58,088 WARN cluster: DEFAULT not found, ip: {"instanceId":"10.10.133.65#63040#DEFAULT#springboot-xue-project@@content-api","ip":"10.10.133.65","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725605458085,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2024-09-06 14:50:58,088 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@content-api, value: {"instanceList":[{"instanceId":"10.10.133.65#63040#DEFAULT#springboot-xue-project@@content-api","ip":"10.10.133.65","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725605458085,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2024-09-06 15:11:21,155 INFO [AUTO-DELETE-IP] service: springboot-xue-project@@content-api, ip: {"instanceId":"10.10.133.65#63040#DEFAULT#springboot-xue-project@@content-api","ip":"10.10.133.65","port":63040,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725606600540,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2024-09-06 15:11:21,384 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@content-api, value: {"instanceList":[]}
+
+2024-09-06 15:11:24,028 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@content-api, value: {"instanceList":[{"instanceId":"10.10.133.65#63040#DEFAULT#springboot-xue-project@@content-api","ip":"10.10.133.65","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725606684027,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2024-09-06 15:11:24,123 INFO [AUTO-DELETE-IP] service: springboot-xue-project@@system-api, ip: {"instanceId":"10.10.133.65#63110#DEFAULT#springboot-xue-project@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725606601141,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2024-09-06 15:11:24,129 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@system-api, value: {"instanceList":[]}
+
+2024-09-06 15:11:24,623 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@system-api, value: {"instanceList":[{"instanceId":"10.10.133.65#63110#DEFAULT#springboot-xue-project@@system-api","ip":"10.10.133.65","port":63110,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"springboot-xue-project@@system-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1725606684621,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2024-09-06 15:19:40,680 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@system-api, value: {"instanceList":[]}
+
+2024-09-06 15:19:40,686 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.dev##springboot-xue-project@@content-api, value: {"instanceList":[]}
+
+2024-09-06 15:21:49,029 WARN namespace : dev, [springboot-xue-project@@content-api] services are automatically cleaned
+
+2024-09-06 15:21:49,035 WARN namespace : dev, [springboot-xue-project@@system-api] services are automatically cleaned
+
+2024-09-06 15:21:49,038 INFO [DEAD-SERVICE] {"name":"springboot-xue-project@@content-api","protectThreshold":0.0,"groupName":"springboot-xue-project","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"dev","ipDeleteTimeout":30000,"lastModifiedMillis":1725607180686,"checksum":"10bac6562097c086d4fa559c7da021d2","clusterMap":{"DEFAULT":{"serviceName":"springboot-xue-project@@content-api","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"defIPPort":80,"empty":true}},"empty":true}
+
+2024-09-06 15:21:49,041 INFO [DEAD-SERVICE] {"name":"springboot-xue-project@@system-api","protectThreshold":0.0,"groupName":"springboot-xue-project","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"dev","ipDeleteTimeout":30000,"lastModifiedMillis":1725607180680,"checksum":"c8264d23e6b50397ce2395c52c9e4b00","clusterMap":{"DEFAULT":{"serviceName":"springboot-xue-project@@system-api","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"defIPPort":80,"empty":true}},"empty":true}
+

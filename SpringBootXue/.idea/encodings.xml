@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/huanf-xue-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/huanf-xue-system/xue-system-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-content/xue-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/huanf-xue-system/xue-system-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

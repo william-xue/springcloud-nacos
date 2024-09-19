@@ -1,0 +1,34 @@
+2024-09-05 16:00:28,485 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-05 16:00:28,485 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-05 16:00:29,388 INFO [main][GenericScope.java:295] - BeanFactory id=07678b35-38a4-3654-aebb-7f8771c91fe4
+2024-09-05 16:00:29,388 INFO [main][GenericScope.java:295] - BeanFactory id=07678b35-38a4-3654-aebb-7f8771c91fe4
+2024-09-05 16:00:29,712 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-09-05 16:00:29,712 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-09-05 16:00:29,723 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-09-05 16:00:29,723 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-09-05 16:00:29,724 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-05 16:00:29,724 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-05 16:00:29,725 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2024-09-05 16:00:29,725 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2024-09-05 16:00:29,816 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-05 16:00:29,816 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-05 16:00:29,816 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1305 ms
+2024-09-05 16:00:29,816 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1305 ms
+2024-09-05 16:00:30,939 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-05 16:00:30,939 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-05 16:00:31,067 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-05 16:00:31,067 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-05 16:00:31,262 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-09-05 16:00:31,262 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-09-05 16:00:31,283 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-09-05 16:00:31,283 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-09-05 16:00:31,286 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-05 16:00:31,286 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-05 16:00:31,298 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-05 16:00:31,298 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-05 16:00:31,331 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-05 16:00:31,331 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-05 16:00:31,557 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.009 seconds (JVM running for 4.933)
+2024-09-05 16:00:31,557 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 4.009 seconds (JVM running for 4.933)
+2024-09-05 16:00:47,397 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-09-05 16:00:47,397 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'

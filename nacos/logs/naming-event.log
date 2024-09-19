@@ -1,0 +1,44 @@
+2024-09-06 14:36:20,730 INFO DEFAULT_GROUP@@system-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 14:36:20,741 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@system-api, ips: 10.10.133.65:63110_true,
+
+2024-09-06 14:36:43,213 INFO DEFAULT_GROUP@@system-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 14:36:43,215 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@system-api, ips: 
+
+2024-09-06 14:36:51,601 INFO springboot-xue-project@@system-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 14:36:51,601 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@system-api, ips: 10.10.133.65:63110_true,
+
+2024-09-06 14:50:58,088 INFO springboot-xue-project@@content-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.133.65:63040:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 14:50:58,089 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@content-api, ips: 10.10.133.65:63040_true,
+
+2024-09-06 15:11:21,151 INFO {POS} {IP-DISABLED} valid: 10.10.133.65:63040@DEFAULT@springboot-xue-project@@content-api, region: unknown, msg: client timeout after 15000, last beat: 1725606600540
+
+2024-09-06 15:11:21,384 INFO springboot-xue-project@@content-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.133.65:63040:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2024-09-06 15:11:21,384 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@content-api, ips: 
+
+2024-09-06 15:11:24,028 INFO springboot-xue-project@@content-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.133.65:63040:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 15:11:24,028 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@content-api, ips: 10.10.133.65:63040_true,
+
+2024-09-06 15:11:24,123 INFO {POS} {IP-DISABLED} valid: 10.10.133.65:63110@DEFAULT@springboot-xue-project@@system-api, region: unknown, msg: client timeout after 15000, last beat: 1725606601141
+
+2024-09-06 15:11:24,129 INFO springboot-xue-project@@system-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2024-09-06 15:11:24,129 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@system-api, ips: 
+
+2024-09-06 15:11:24,623 INFO springboot-xue-project@@system-api {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 15:11:24,623 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@system-api, ips: 10.10.133.65:63110_true,
+
+2024-09-06 15:19:40,680 INFO springboot-xue-project@@system-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.133.65:63110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 15:19:40,683 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@system-api, ips: 
+
+2024-09-06 15:19:40,686 INFO springboot-xue-project@@content-api {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.133.65:63040:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-06 15:19:40,686 INFO [IP-UPDATED] namespace: dev, service: springboot-xue-project@@content-api, ips: 
+
